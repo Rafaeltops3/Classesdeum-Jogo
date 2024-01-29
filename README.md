@@ -29,8 +29,8 @@ class Heroi {
 }
 
 // Exemplo de uso
-const heroi1 = new Heroi('Aragorn', 30, 'guerreiro');
+const heroi1 = new Heroi('Shaman', 30, 'guerreiro');
 heroi1.atacar();
 
-const heroi2 = new Heroi('Gandalf', 200, 'mago');
+const heroi2 = new Heroi('LordJay', 200, 'mago');
 heroi2.atacar();
